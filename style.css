@@ -1,0 +1,43 @@
+html, body {
+  height: 100%;
+  width: 100%;
+  background: black;
+}
+
+#myProgress {
+  width: 100%;
+  background-color: grey;
+}
+
+#myBar {
+  width: 1%;
+  height: 30px;
+  background-color: green;
+}
+
+#controlpanel {
+  margin: 25px;
+  width: 350px;
+  height: 200px;
+}
+
+button {
+  color:white; 
+  background:black;
+}
+
+h1 {
+  width: 350px;
+  height: 200px;
+  margin: 25px;
+}
+
+input {
+  color: white;
+}
+
+#pltoggle {
+     position: fixed;
+     bottom: 0;
+     right: 0;
+}
